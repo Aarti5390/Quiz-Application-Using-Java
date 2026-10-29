@@ -9,9 +9,9 @@ The Quiz Application is a software project developed using Java to demonstrate c
 ## ✨ Features
 
 - Interactive quiz interface
-- Multiple-choice questions (if supported by the implementation)
+- Multiple-choice questions 
 - Answer selection and submission
-- Quiz score calculation (if implemented)
+- Quiz score calculation 
 - User-friendly navigation
 - Java-based application logic
 
@@ -21,7 +21,6 @@ The Quiz Application is a software project developed using Java to demonstrate c
 - **IDE:** IntelliJ IDEA / Eclipse / NetBeans
 - **Version Control:** Git and GitHub
 
-*Update this section according to the actual technologies and tools used in your project.*
 
 ## 📂 Project Structure
 
@@ -32,7 +31,6 @@ Quiz-Application-Using-Java/
 └── [Other project files] # Configuration and resources
 ```
 
-*The folder structure above is illustrative. Adjust it to match your repository.*
 
 ## 🚀 Getting Started
 
